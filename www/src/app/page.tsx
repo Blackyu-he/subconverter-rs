@@ -25,6 +25,11 @@ const CONFIG_PRESETS = [
     description: "Minimal rules"
   },
   {
+    name: "Blackyu自用版ACL_全分组",
+    url: "https://raw.githubusercontent.com/blackyu-he/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini",
+    description: "Full rules"
+  },
+  {
     name: "Divine China",
     url: "/config/China.yaml",
     description: "China rules"
